@@ -2,7 +2,7 @@ class Launcher < Formula
   desc "Define and launch data pipelines on cloud"
   homepage "https://launcher.gigahex.com"
   url "https://github.com/GigahexHQ/launcher/releases/download/v0.1.0/launcher-tool-0.1.0.tar.gz"
-  sha256 "7fcf2ea9f76b4ffaa7f2ac5f19789b999999819c4934f7353b082c3ff47cac6b"
+  sha256 "493a5832362ab3c0d3fa434b360f35884ce56060b7a18072cc1826184f9abd29"
 
   bottle :unneeded
 
